@@ -1,9 +1,10 @@
 # Talky-UEPlugin
 Talky is a Blueprint based plugin for creating dialogue events for your game project.
-It is currently in development. Come back later for a release. (:
+It is currently in development. 
 
-This plugin will be free to use for any BUAS projects promoting narrative design.
-Please contact me if you want to use it for your personal (commercial) projects.
+We're looking for Alpha testers. Interested? Join our Discord: https://discord.gg/HH9tcCMn
+
+
 
 # Features
 * Create branching dialogues in a simple to understand interface without having to go into code or blueprints.
@@ -29,4 +30,4 @@ Steps
 
 
 # Documentation
-soon...
+Check out the Wiki
